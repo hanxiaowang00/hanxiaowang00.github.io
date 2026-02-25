@@ -1,6 +1,6 @@
 ---
 title: "Structure-Aware Surface Reconstruction via Primitive Assembly"
-date: 2023-01-01 00:01:00 +0800
+date: 2023-01-15 00:01:00 +0800
 selected: false
 pub: "Proceedings of the IEEE/CVF International Conference on Computer Vision"
 pub_date: "2023"

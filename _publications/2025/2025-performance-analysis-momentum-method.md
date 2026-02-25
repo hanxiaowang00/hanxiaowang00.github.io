@@ -1,6 +1,6 @@
 ---
 title: "On the Performance Analysis of Momentum Method: A Frequency Domain Perspective"
-date: 2025-01-01 00:01:00 +0800
+date: 2025-01-15 00:01:00 +0800
 selected: false
 pub: "International Conference on Learning Representations (ICLR)"
 pub_date: "2025"

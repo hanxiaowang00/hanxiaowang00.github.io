@@ -1,6 +1,6 @@
 ---
 title: "VQ-CAD: Computer-Aided Design Model Generation with Vector Quantized Diffusion"
-date: 2024-01-01 00:01:00 +0800
+date: 2024-01-15 00:01:00 +0800
 selected: false
 pub: "Computer Aided Geometric Design"
 pub_date: "2024"
