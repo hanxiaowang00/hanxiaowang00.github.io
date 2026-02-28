@@ -9,9 +9,9 @@ homepage:
 visitor_map:
   enabled: true
   # MapMyVisitors - 3D 交互地球仪，从 https://mapmyvisitors.com 获取
-  mapmyvisitors_site_id: "aldcooWa6uIHrcGlKis_vLj7NaI2feJuUabXApl3RLc"
+  mapmyvisitors_site_id: ""
   # ClustrMaps - 2D 缩略图，从 https://clustrmaps.com/add 获取
-  clustrmaps_site_id: ""
+  clustrmaps_site_id: "2d"
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
