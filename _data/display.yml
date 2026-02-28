@@ -4,6 +4,15 @@ homepage:
   show_selected_publications: true
   num_news: 10
 
+# Visitor map - 访客 IP 分布地图（根据访客 IP 显示全球访问位置）
+# 二选一：mapmyvisitors（3D 地球仪）或 clustrmaps（2D 缩略图）
+visitor_map:
+  enabled: true
+  # MapMyVisitors - 3D 交互地球仪，从 https://mapmyvisitors.com 获取
+  mapmyvisitors_site_id: "aldcooWa6uIHrcGlKis_vLj7NaI2feJuUabXApl3RLc"
+  # ClustrMaps - 2D 缩略图，从 https://clustrmaps.com/add 获取
+  clustrmaps_site_id: ""
+
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-

@@ -1,0 +1,21 @@
+{% comment %}
+  访客 IP 分布地图 - 支持 MapMyVisitors（3D 地球仪）或 ClustrMaps（2D 缩略图）
+{% endcomment %}
+{% if site.data.display.visitor_map.enabled %}
+<div class="visitor-map-wrapper text-center py-4 border-top">
+  <p class="text-muted small mb-2"><i class="fas fa-globe-americas"></i> Visitor Map</p>
+  {% if site.data.display.visitor_map.mapmyvisitors_site_id != "" and site.data.display.visitor_map.mapmyvisitors_site_id != nil %}
+  <div style="min-height: 200px; max-width: 400px; margin: 0 auto;">
+    <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d={{ site.data.display.visitor_map.mapmyvisitors_site_id }}"></script>
+  </div>
+  {% elsif site.data.display.visitor_map.clustrmaps_site_id != "" and site.data.display.visitor_map.clustrmaps_site_id != nil %}
+  <a href="https://clustrmaps.com/site/{{ site.data.display.visitor_map.clustrmaps_site_id }}" target="_blank" rel="noopener noreferrer" title="View visitor map">
+    <img src="https://cdn.clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d={{ site.data.display.visitor_map.clustrmaps_site_id }}" alt="Visitor Map" style="max-width: 100%; height: auto; border-radius: 6px;">
+  </a>
+  {% else %}
+  <a href="https://mapmyvisitors.com" target="_blank" rel="noopener noreferrer" class="text-muted small">
+    <i class="fas fa-map-marked-alt"></i> Add your site at MapMyVisitors to show visitor globe
+  </a>
+  {% endif %}
+</div>
+{% endif %}
