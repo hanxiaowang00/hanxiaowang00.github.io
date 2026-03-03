@@ -5,7 +5,7 @@ selected: true
 pub: "arXiv preprint arXiv:2503.16653"
 pub_date: "2025"
 cover: /assets/images/teaser/iflame.png
-scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rPvC5AkAAAAJ&citation_for_view=rPvC5AkAAAAJ:YsMSGLbcyi4C"
+scholar_url: "https://arxiv.org/abs/2503.16653"
 abstract: >-
   Efficient mesh generation with interleaved full and linear attention.
 authors:
@@ -14,4 +14,8 @@ authors:
   - W Quan
   - DM Yan
   - P Wonka
+links:
+  Project: "https://hanxiaowang00.github.io/iFlame/"
+  Code: "https://github.com/hanxiaowang00/iFlame"
+  arXiv: "https://arxiv.org/abs/2503.16653"
 ---
