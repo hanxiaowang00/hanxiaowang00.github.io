@@ -43,17 +43,20 @@ portrait_url: /assets/images/hxw.png
 #   date: ""
 
 education:
-- name: Institute of Automation, Chinese Academy of Sciences
-  position: "Ph.D. in Computer Application Technology (Supervised by Prof. Dong-ming Yan)"
-  date: Sept 2022 - June 2027 (Exp.)
 - name: University of Chinese Academy of Sciences
   position: "B.S. in Computer Science and Technology"
   date: Sept 2018 - June 2022
+- name: University of Chinese Academy of Sciences (自动化所)
+  position: "M.S. in Computer Application Technology (Supervised by Prof. Dong-Ming Yan)"
+  date: Sept 2022 - Aug 2024
+- name: University of Chinese Academy of Sciences (自动化所)
+  position: "Ph.D. in Computer Application Technology (Supervised by Prof. Dong-Ming Yan)"
+  date: Sept 2024 - June 2027 (Exp.)
 
 experience:
 - name: VAST
   position: "Research Intern (Mentored by Dr. Yan-Pei Cao, Dr. Yuan-Chen Guo, and Dr. Ying-Tian Liu)"
-  date: June 2025 - Present
+  date: May 2025 - Nov 2025
 - name: King Abdullah University of Science and Technology (KAUST)
   position: "Remote Research Intern (Supervised by Prof. Peter Wonka and Dr. Biao Zhang)"
-  date: May 2024 - May 2025
+  date: May 2024 - Apr 2025
