@@ -54,9 +54,16 @@ education:
   date: Sept 2024 - June 2027 (Exp.)
 
 experience:
-- name: VAST
-  position: "Research Intern (Mentored by Dr. Yan-Pei Cao, Dr. Yuan-Chen Guo, and Dr. Ying-Tian Liu)"
-  date: May 2025 - Nov 2025
+- name: VAST, Beijing, China
+  position: "Research Intern, Vstar (Mentors: Dr. Yan-Pei Cao, Dr. Yuan-Chen Guo, Dr. Ying-Tian Liu, and Dr. Peng Wang)"
+  date: June 2025 - Present
+  items:
+  - name: AR Mesh Generation
+    date: June 2025 - Dec. 2025
+  - name: Nexus
+    date: Dec. 2025 - Mar. 2026
+  - name: World Model
+    date: Mar. 2026 - Present
 - name: King Abdullah University of Science and Technology (KAUST)
   position: "Remote Research Intern (Supervised by Prof. Peter Wonka and Dr. Biao Zhang)"
   date: May 2024 - Apr 2025
